@@ -1,0 +1,7 @@
+node_modules/
+tmp/
+assets.new/
+# generated previews and QA scratch
+*.png
+qa-*
+__*.html
