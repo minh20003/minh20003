@@ -1,39 +1,37 @@
-# Dinh Quang Minh
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Dinh Quang Minh - AI applications and backend development" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=20&amp;duration=2600&amp;pause=1400&amp;color=22D3EE&amp;background=0B1220&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=50&amp;lines=AI+applications+%2F+Backend+development%3BPython+%2F+FastAPI+%2F+LangGraph%3BBuilding+useful+software%2C+one+iteration+at+a+time.&amp;repeat=false" width="100%" alt="AI applications, Python, FastAPI and LangGraph" />
+</p>
 
-**AI applications & backend development**
+<p align="center">
+  Software Engineering at <strong>FPT University</strong> &#183; Japanese BrSE track<br />
+  Applied AI training through <strong>AI in Action at VinUniversity</strong><br /><br />
+  I build backend services and explore practical applications of LLMs.<br />
+  Currently focused on RAG, agentic workflows, and real-time systems.
+</p>
 
-Software Engineering student at **FPT University**, following the Japanese BrSE track. I work with Python, FastAPI, and LLM-powered applications, and I am continuing my applied AI training through **AI in Action at VinUniversity**.
+### 01 / Tech stack
 
-[LinkedIn](https://www.linkedin.com/in/quang-minh-dinh-0b4380359/) · Hanoi, Vietnam
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,java,react,nextjs,ts,androidstudio&amp;theme=dark&amp;perline=10" height="48" alt="Python, FastAPI, PostgreSQL, Docker, Git, Java, React, Next.js, TypeScript and Android Studio" />
+</p>
+<p align="center"><strong>LangGraph &#183; LangChain &#183; LLM APIs &#183; WebSocket</strong></p>
 
-## Technical focus
+### 02 / Selected work
 
-| Area | Technologies |
-| --- | --- |
-| Backend | Python, FastAPI, WebSocket |
-| AI applications | LangGraph, LangChain, LLM APIs |
-| Data | PostgreSQL, SQL |
-| Development tools | Git, Docker |
-| Also working with | Java, React, Next.js, TypeScript |
+<p align="center">
+  <a href="https://github.com/minh20003/linguaflow-ai"><img src="assets/linguaflow.svg" width="49%" alt="LinguaFlow - real-time multilingual chat with context-aware AI translation. Python, FastAPI and LangGraph." /></a>
+  <a href="https://github.com/minh20003/SportFieldBookingApp"><img src="assets/sportfield.svg" width="49%" alt="SportFieldBookingApp - an Android sports field booking application. Java, Android and Firebase." /></a>
+</p>
 
-## Selected projects
+### 03 / GitHub activity
 
-### [LinguaFlow](https://github.com/minh20003/linguaflow-ai)
-Real-time multilingual messaging with context-aware AI translation. My work focuses on the AI translation pipeline and backend integration.
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=minh20003&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;show_icons=true&amp;hide_rank=true&amp;icon_color=22D3EE&amp;card_width=480&amp;custom_title=Public+GitHub+Activity" height="175" alt="Public GitHub activity statistics for minh20003" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=minh20003&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;layout=compact&amp;langs_count=6&amp;card_width=360" height="175" alt="Language distribution across public repositories" />
+</p>
+<p align="center"><sub>Public repository data. Language distribution reflects repository code, not proficiency.</sub></p>
 
-**Stack:** Python, FastAPI, LangGraph, PostgreSQL, WebSocket, Next.js.
-
-### [SportFieldBookingApp](https://github.com/minh20003/SportFieldBookingApp)
-An Android application for booking sports fields.
-
-**Stack:** Java, Android, Firebase.
-
-## Currently developing
-
-- Practical skills in LLM applications, retrieval-augmented generation (RAG), and agentic workflows.
-- Reliable backend services and real-time application development.
-- Japanese language skills and collaboration across cultures.
-
-## Opportunities
-
-Interested in **AI / Backend internship opportunities** and collaboration on practical software projects. You can reach me through [LinkedIn](https://www.linkedin.com/in/quang-minh-dinh-0b4380359/).
+<p align="center">
+  <a href="https://www.linkedin.com/in/quang-minh-dinh-0b4380359/"><img src="assets/connect.svg" width="100%" alt="Connect on LinkedIn - open to AI and backend internship opportunities" /></a>
+</p>
